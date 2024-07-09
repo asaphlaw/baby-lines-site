@@ -1,0 +1,97 @@
+{
+  "styles": [
+    {
+      "name": "HTML Base",
+      "selector": "html",
+      "fontSize": "16px"
+    },
+    {
+      "name": "Heading 1",
+      "selector": "h1",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "2.5rem",
+      "lineHeight": "3rem",
+      "fontWeight": 700
+    },
+    {
+      "name": "Heading 2",
+      "selector": "h2",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "2rem",
+      "lineHeight": "2.5rem",
+      "fontWeight": 600
+    },
+    {
+      "name": "Heading 3",
+      "selector": "h3",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "1.75rem",
+      "lineHeight": "2.25rem",
+      "fontWeight": 600
+    },
+    {
+      "name": "Heading 4",
+      "selector": "h4",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "1.5rem",
+      "lineHeight": "2rem",
+      "fontWeight": 500
+    },
+    {
+      "name": "Paragraph",
+      "selector": "p",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "1rem",
+      "lineHeight": "1.5rem",
+      "fontWeight": 400
+    },
+    {
+      "name": "Table Header",
+      "selector": "table th",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "1rem",
+      "lineHeight": "1.5rem",
+      "fontWeight": 600
+    },
+    {
+      "name": "Table Data",
+      "selector": "table td",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "1rem",
+      "lineHeight": "1.5rem",
+      "fontWeight": 400
+    },
+    {
+      "name": "List",
+      "selector": "ul, ol",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "1rem",
+      "lineHeight": "1.5rem",
+      "fontWeight": 400
+    },
+    {
+      "name": "Large Text",
+      "selector": ".large",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "1.25rem",
+      "lineHeight": "1.75rem",
+      "fontWeight": 400
+    },
+    {
+      "name": "Small Text",
+      "selector": ".small",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "0.875rem",
+      "lineHeight": "1.25rem",
+      "fontWeight": 400
+    },
+    {
+      "name": "Muted Text",
+      "selector": ".muted",
+      "fontFamily": "Asap, sans-serif",
+      "fontSize": "1rem",
+      "lineHeight": "1.5rem",
+      "fontWeight": 400
+    }
+  ]
+}
